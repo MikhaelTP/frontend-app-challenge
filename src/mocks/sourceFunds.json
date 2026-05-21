@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Ahorros" },
+  { "id": 2, "name": "Herencia" },
+  { "id": 3, "name": "Venta de inmuebles" },
+  { "id": 4, "name": "Remesas del exterior" },
+  { "id": 5, "name": "Otros" }
+]
