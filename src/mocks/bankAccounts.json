@@ -1,0 +1,14 @@
+[
+  { "id": 1,  "name": "BCP",                 "code": "bcp" },
+  { "id": 2,  "name": "Interbank",            "code": "interbank" },
+  { "id": 3,  "name": "Scotiabank",           "code": "scotiabank" },
+  { "id": 4,  "name": "BBVA Continental",     "code": "bbva" },
+  { "id": 5,  "name": "Banco Falabella",      "code": "falabella" },
+  { "id": 6,  "name": "BanBif",              "code": "banbif" },
+  { "id": 7,  "name": "Pichincha",            "code": "pichincha" },
+  { "id": 8,  "name": "Banco de la Nación",   "code": "nacion" },
+  { "id": 9,  "name": "Mibanco",              "code": "mibanco" },
+  { "id": 10, "name": "Banco Ripley",         "code": "ripley" },
+  { "id": 11, "name": "Caja Arequipa",        "code": "arequipa" },
+  { "id": 12, "name": "Caja Piura",           "code": "piura" }
+]
